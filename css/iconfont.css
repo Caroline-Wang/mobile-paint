@@ -1,0 +1,41 @@
+
+@font-face {font-family: "iconfont";
+  src:url('../fonts/iconfont.ttf') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pen-width:before { content: "\e61d"; }
+
+.icon-eraser:before { content: "\e645"; }
+
+.icon-save:before { content: "\e680"; }
+
+.icon-save1:before { content: "\e728"; }
+
+.icon-theme:before { content: "\e65e"; }
+
+.icon-eraser1:before { content: "\e709"; }
+
+.icon-eraser2:before { content: "\e681"; }
+
+.icon-theme1:before { content: "\e63d"; }
+
+.icon-eraser3:before { content: "\e675"; }
+
+.icon-theme2:before { content: "\e679"; }
+
+.icon-pen:before { content: "\e629"; }
+
+.icon-pen1:before { content: "\e661"; }
+
+.icon-pen-color:before { content: "\e69a"; }
+
+.icon-eraser4:before { content: "\e600"; }
+
